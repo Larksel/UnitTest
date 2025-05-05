@@ -9,7 +9,7 @@ public class CalculadoraTest {
 
   @Test
   void testAdd() {
-    assertEquals(2, calculadora.somar(1, 1), "1 + 2 deveria ser 2");
+    assertEquals(2, calculadora.somar(1, 1), "1 + 1 deveria ser 2");
   }
 
   @Test
